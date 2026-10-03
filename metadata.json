@@ -1,0 +1,8 @@
+{
+  "name": "Fisika Mantang",
+  "description": "Aplikasi web pembelajaran fisika interaktif SMAN 1 Mantang dengan modul fluida statis, laboratorium virtual interaktif, latihan soal komprehensif, dan asisten AI Tanya Fisika.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
